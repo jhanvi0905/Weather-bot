@@ -13,7 +13,7 @@ class ActionGetWeather(Action):
 
     def run(self, dispatcher, tracker, domain):
         from pyowm import OWM
-        API_key = 'f7ced857457357638eb9e025a60e2c89'
+        API_key = 'API KEY'
         owm = OWM(API_key)
         city = tracker.get_slot('GPE')
         dispatcher.utter_message('Retreieved location: '+str(city))
