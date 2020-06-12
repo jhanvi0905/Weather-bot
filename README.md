@@ -36,6 +36,7 @@ Run run_app.py - for deploying the bot on slack using rasa's slack input channel
 
 P.S- Generated stories are the real time stories generated while conversing with the bot and stored in stories.md, which further were used to improve the precision of dialogue generation model.
 
+![running instance of the bot](https://github.com/jhanvi0905/Weather-bot/blob/master/weather-bot-running.png)
 
 
 
