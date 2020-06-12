@@ -1,0 +1,38 @@
+
+%YAML 1.1
+---
+actions:
+- utter_how_i_am
+- action_get_weather
+- utter_its_nice_to_meet_you
+- utter_greeting
+- utter_bye
+entities:
+- GPE
+- PERSON
+intents:
+- Hi
+- my_name_is
+- stop
+- get_weather
+- greeting
+- bye
+- how_are_you
+slots:
+  GPE:
+    type: text
+  PERSON:
+    type: text
+templates:
+  utter_bye:
+  - text: Bye.
+  - text: Good bye.
+  utter_greeting:
+  - text: Hi!What is your Name
+  - text: Hello, my friend. What is your name?
+  utter_how_i_am:
+  - text: I am doing ok.
+  - text: I am good.
+  utter_its_nice_to_meet_you:
+  - text: It's nice to meet you,{PERSON}. What can I do for you ?
+  - text: Nice to meet you,{PERSON}. What can I do for you ?

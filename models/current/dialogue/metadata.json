@@ -1,0 +1,44 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "PERSON",
+        "GPE"
+      ]
+    },
+    "utter_its_nice_to_meet_you": {
+      "slots": []
+    },
+    "action_get_weather": {
+      "slots": []
+    },
+    "action_restart": {
+      "slots": []
+    },
+    "utter_how_i_am": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_greeting": {
+      "slots": []
+    }
+  },
+  "python": "3.7.2",
+  "max_histories": [
+    3,
+    3,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190612-110438",
+  "rasa_core": "0.14.0",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.3"
+}
