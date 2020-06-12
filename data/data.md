@@ -10,25 +10,25 @@
 
 - what's the weather
 ## intent:get_weather
-- what's the weather in [Czech Republic](GPE)
+- what's the weather in [Czech Republic] (GPE)
 - what is the weather
-- what is the weather in [New Zealand](GPE)
+- what is the weather in [New Zealand] (GPE)
 - whats the weather
 - what is the weather in [Delhi] (GPE)
 - what is the weather in [Auckland] (GPE)
-- How is it in [New York](GPE)
+- How is it in [New York] (GPE)
 - what's the weather
-- what's the weather in [Czech Republic](GPE)
+- what's the weather in [Czech Republic] (GPE)
 - what is the weather
-- what is the weather in [New Zealand](GPE)
+- what is the weather in [New Zealand] (GPE)
 - whats the weather
 - what is the weather in [Delhi] (GPE)
 - what is the weather in [Auckland] (GPE)
 - How is it in [New York](GPE)
-- What is the weather in [Ahmedabad](GPE)
-- what is the weather in [Ahmedbad](GPE)
-- What is the weather in [Ahmedabad](GPE)
-- What is the weather in Ahmedabad[](GPE:Ahmedabad)
+- What is the weather in [Ahmedabad] (GPE)
+- what is the weather in [Ahmedbad] (GPE)
+- What is the weather in [Ahmedabad] (GPE)
+- What is the weather in Ahmedabad[] (GPE:Ahmedabad)
 
 ## intent:greeting
 - hey
