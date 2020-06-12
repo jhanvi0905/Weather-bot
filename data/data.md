@@ -24,7 +24,7 @@
 - whats the weather
 - what is the weather in [Delhi] (GPE)
 - what is the weather in [Auckland] (GPE)
-- How is it in [New York](GPE)
+- How is it in [New York] (GPE)
 - What is the weather in [Ahmedabad] (GPE)
 - what is the weather in [Ahmedbad] (GPE)
 - What is the weather in [Ahmedabad] (GPE)
@@ -45,18 +45,18 @@
 - how is life
 
 ## intent:my_name_is
-- I am [Martin](PERSON)
-- I am [Jack](PERSON)
-- I'm [Steven](PERSON)
-- im [Jack](PERSON)
-- My name is [Martin Novak](PERSON)
-- I am [Jhanvi](PERSON)
-- My name is [Jhanvi](PERSON:jhanvi)
-- I am Javk[](PERSON:Javk)
-- I am Mark[](PERSON:Mark)
-- I am [Jhanvi](PERSON:jhanvi)
-- My name is [Jhanvi](PERSON:jhanvi)[Jhanvi](PERSON:jhanvi)
-- My name is Jhanvi[](PERSON:Jhanvi)
+- I am [Martin] (PERSON)
+- I am [Jack] (PERSON)
+- I'm [Steven] (PERSON)
+- im [Jack] (PERSON)
+- My name is [Martin Novak] (PERSON)
+- I am [Jhanvi] (PERSON)
+- My name is [Jhanvi] (PERSON:jhanvi)
+- I am Javk[] (PERSON:Javk)
+- I am Mark[] (PERSON:Mark)
+- I am [Jhanvi] (PERSON:jhanvi)
+- My name is [Jhanvi] (PERSON:jhanvi)[Jhanvi] (PERSON:jhanvi)
+- My name is Jhanvi[] (PERSON:Jhanvi)
 
 
 
