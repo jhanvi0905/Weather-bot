@@ -15,8 +15,7 @@ The trained intent classifier and NER models are saved in models/chatbotnlu fold
 
 # Dialogue Generation Model:
 
-The model is trained based on the stories.md data, which shows example for the type of conversation the bot should support for.
-
+The model is trained based on the stories.md data, which contains example conversations the bot with the bot to identify intent and slot.
 The dialogue generation training takes two things - 
 
 Data- stories.md 
